@@ -1,0 +1,116 @@
+/* header{
+    background-color: rgb(31, 29, 29);
+    color: white;
+} */
+/* header */
+#header{
+    background-color: black;
+position:sticky;
+top: 0;
+}
+#header a{
+    color: blanchedalmond;
+}
+
+header img{
+    width: 2rem;
+    height: 2rem;
+}
+/* header */
+
+ /* banner  */
+#banner{
+    background-color: #cec8c8;
+ }
+ 
+ #btnb{
+     background-color: #FFC133;
+      color:black;
+ }
+
+ #btnb:hover{
+     background-color: #FFDD33;
+ }
+ 
+#banner img {
+        width: 11rem;
+        height: 11rem;
+    }
+   /* banner  */
+  
+   
+/* about */
+#about{
+       background-color: #d4e6ed;
+       }
+#btna{
+ background-color: #FFC133;
+color:black;
+}
+/* about */
+
+/* achievement */
+#achievement{
+    background-color: #f1e6c1;
+}
+
+}
+#achievement img {
+    width:10rem;
+    height:20rem;
+}
+
+/* achievement */
+
+/* Projects */
+.common{
+    text-align: center;
+    margin: auto;
+    font-size: 2rem;
+}
+#project{
+    background-color:#c9f3ec;
+}
+/* Projects */
+
+/* council */
+#coouncil{
+    background-color: cyan;
+}
+/* council */
+
+/* our team */
+#ot{
+    background-color: #86b2b2;
+}
+
+#collab{
+background-color: darkgrey;
+}
+/* our team */
+
+
+/* footer */
+#footer{
+background-color:#595956;
+height: 20vh;
+display: flex;
+align-content: center;
+}
+#footer li a{
+    color: cornsilk;
+}
+#footer h2{
+    color: cornsilk;
+}
+
+#footer img{
+width: 4rem;
+height:4rem;
+}
+
+#footer svg{
+width: 4rem;
+height: 2rem;
+}
+/* footer */
