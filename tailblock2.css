@@ -1,0 +1,57 @@
+
+/* header */
+
+#header{
+    background-color: black;
+    position:fixed;
+    top: 0;
+}
+
+#header a{
+    color: blanchedalmond;
+}
+
+header img{
+    width: 2rem;
+    height: 2rem;
+}
+/* header */
+
+
+.common{
+    text-align: center;
+    margin: auto;
+    /* font-size: 2rem; */
+}
+
+/* achievement */
+#achievement h1{
+      text-align: center ;
+      margin: auto;
+}
+/* achievement */
+
+/* footer */
+#footer{
+background-color:#595956;
+height: 20vh;
+display: flex;
+align-content: center;
+}
+#footer li a{
+    color: cornsilk;
+}
+#footer h2{
+    color: cornsilk;
+}
+
+#footer img{
+width: 4rem;
+height:4rem;
+}
+
+#footer svg{
+width: 4rem;
+height: 2rem;
+}
+/* footer */
